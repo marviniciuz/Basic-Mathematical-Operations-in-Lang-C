@@ -6,5 +6,6 @@
 * subtraction
 * division
 * multiplication
+* remainder of division
 
 ### I also created a very simple calculator in C.
