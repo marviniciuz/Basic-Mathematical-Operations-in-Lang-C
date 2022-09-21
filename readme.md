@@ -1,6 +1,6 @@
 # Basic Mathematical Operations in Lang C
 
-## The Mathematical Operations are:
+## This repository contains algorithms for the math operations listed below:
 
 * sum
 * subtraction
