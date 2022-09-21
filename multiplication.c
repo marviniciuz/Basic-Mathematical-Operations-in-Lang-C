@@ -7,8 +7,8 @@ int main(){
     num1 = 8;
     num2 = 4;
 
-    int multiplicacao = num1 * num2;
-    printf("O resultado da multiplicacao e = %i",multiplicacao);
+    int mult = num1 * num2;
+    printf("The result of the multiplication = %i",mult);
 
     return 0;
 

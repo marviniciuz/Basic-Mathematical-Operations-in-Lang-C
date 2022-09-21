@@ -7,8 +7,8 @@ int main(){
     num1 = 10;
     num2 = 5;
 
-    int subtracao = num1 - num2;
-    printf("O resultado da subtracao e = %i",subtracao);
+    int sub = num1 - num2;
+    printf("The result of the subtraction = %i",sub);
     
     return 0;
 

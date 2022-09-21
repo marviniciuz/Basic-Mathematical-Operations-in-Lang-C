@@ -3,12 +3,12 @@
 
 int main(){
 
-    int num1,num2,divisao;
+    int num1,num2,division;
     num1 = 10;
     num2 = 5;
 
-    divisao = num1/num2;
-    printf("O resultado da divisao e = %i",divisao);
+    division = num1/num2;
+    printf("The result of the division and = %i",division);
     
     return 0;
 }

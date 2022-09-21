@@ -3,12 +3,12 @@
 
 int main (){
 
-   int num1,num2,subtracao;
+   int num1,num2,sub;
     num1 = 10;
     num2 = 5;
 
-    subtracao = num1 - 1;
-    printf ("O resultado da subtracao e = %i",subtracao);
+    sub = num1 - 1;
+    printf ("The result of the subtraction = %i",sub);
 
     return 0;
 

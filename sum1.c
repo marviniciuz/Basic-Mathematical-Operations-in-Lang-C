@@ -7,8 +7,8 @@ int main(){
     num1 = 10;
     num2 = 5;
 
-    int soma = num1 + num2;
-    printf("O resultado da soma e = %i",soma);
+    int sum = num1 + num2;
+    printf("The sum result and = %i",sum);
 
     return 0;   
 
